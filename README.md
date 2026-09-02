@@ -88,3 +88,6 @@ docker logs 1panel-ai-gateway
 - **社区论坛** — [1Panel 论坛](https://bbs.fit2cloud.com/c/1p/7)
 - **问题反馈** — [1Panel Issues](https://github.com/1Panel-dev/1Panel/issues)
 - **交流讨论** — [1Panel Discussions](https://github.com/1Panel-dev/1Panel/discussions)
+- **微信交流群**
+
+  <img src="https://resource.fit2cloud.com/1panel/img/wechat.png" alt="1Panel 微信交流群二维码" width="150" height="150" />
