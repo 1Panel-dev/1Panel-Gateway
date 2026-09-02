@@ -60,10 +60,28 @@ docker logs 1panel-ai-gateway
 
 ![1Panel AI 网关概览](docs/images/overview.png)
 
+<table>
+  <tr>
+    <td align="center"><img src="docs/images/model-marketplace.png" alt="模型广场"><br><sub>模型广场</sub></td>
+    <td align="center"><img src="docs/images/model-proxy.png" alt="模型代理与账号池"><br><sub>模型代理与账号池</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/images/user-groups.png" alt="用户组与权限控制"><br><sub>用户组与权限控制</sub></td>
+    <td align="center"><img src="docs/images/smart-routing-samples.png" alt="智能路由样本"><br><sub>智能路由样本</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/images/smart-routing-logs.png" alt="智能路由决策日志"><br><sub>智能路由决策日志</sub></td>
+    <td align="center"><img src="docs/images/sensitive-words.png" alt="敏感词管理"><br><sub>敏感词管理</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="docs/images/usage-statistics.png" alt="用量统计"><br><sub>用量统计</sub></td>
+  </tr>
+</table>
+
 ## 获取帮助
 
 > [!NOTE]
-> 本仓库不接收问题反馈，Issues 和 Discussions 将保持关闭。使用问题、建议和功能需求请统一提交至 [1Panel 主仓库](https://github.com/1Panel-dev/1Panel)。
+> 本仓库不开放 Issues 和 Discussions，请前往 [1Panel 主仓库](https://github.com/1Panel-dev/1Panel)反馈问题与建议。
 
 - **官方网站** — [1Panel AI 网关](https://1panel.cn/ai-gateway.html)
 - **使用文档** — [1Panel-Gateway](https://docs.fit2cloud.com/1Panel-Gateway)
