@@ -84,7 +84,7 @@ docker logs 1panel-ai-gateway
 > 本仓库不开放 Issues 和 Discussions，请前往 [1Panel 主仓库](https://github.com/1Panel-dev/1Panel)反馈问题与建议。
 
 - **官方网站** — [1Panel AI 网关](https://1panel.cn/ai-gateway.html)
-- **使用文档** — [1Panel-Gateway](https://docs.fit2cloud.com/1Panel-Gateway)
+- **使用文档** — [1Panel-Gateway](https://docs.fit2cloud.com/ai-gateway)
 - **社区论坛** — [1Panel 论坛](https://bbs.fit2cloud.com/c/1p/7)
 - **问题反馈** — [1Panel Issues](https://github.com/1Panel-dev/1Panel/issues)
 - **交流讨论** — [1Panel Discussions](https://github.com/1Panel-dev/1Panel/discussions)
